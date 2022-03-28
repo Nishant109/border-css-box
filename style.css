@@ -1,0 +1,21 @@
+body{
+    margin-bottom: 300px solid green;
+}
+div{
+    background-color: blueviolet;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    width: 15cm;
+}
+
+#rounded-all{
+    border: 10px solid red;
+    border-radius: 40px;
+}
+
+#rounded-2{
+    border: 10px solid red;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
